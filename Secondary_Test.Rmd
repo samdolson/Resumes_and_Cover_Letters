@@ -1,75 +1,78 @@
-<center><span style="font-family:Didot; font-size:2.5em;">Sam D. Olson</span></center>
-<center><span style="font-family:Didot; font-size:1.5em;">**Github:**[samdolson](http://github.com/samdolson)</span></center>
-<center><span style="font-family:Didot; font-size:1.5em;">**Email:**[samuel.david.olson@gmail.com](samuel.david.olson@gmail.com)</span></center>
-<center><span style="font-family:Didot; font-size:1.5em;">Portland, OR USA
-</span></center>
+<center><span style="font-family:Didot; font-size:1.5em;">**Sam D. Olson**</span></center>
 
-<span style="font-family:Didot; font-size:2em;"> Objective </span>
+<center><span style="font-family:Didot; font-size:1em;"> **Email:** [samuel.david.olson@gmail.com](samuel.david.olson@gmail.com) | **Github:** [samdolson](http://github.com/samdolson) | **LinkedIn:** [Samuel Olson](https://www.linkedin.com/in/samuel-olson-108b73135/)</span></center>
+
+<center><span style="font-family:Didot; font-size:1em;"> **Phone:** +1(763)280-0544 | **Location:** Portland, OR USA </span></center>
+
+<span style="font-family:Didot; font-size:1.5em;">  Objective  </span>
 
 * Aspiring graduate student of statistics. Passionate about data literacy, cognitive biases, and data visualization. Interested in research positions. 
 
-<span style="font-family:Didot; font-size:2em;">Education</span>
+------
+
+<p style="text-align:left;">
+    This text is left aligned
+    <span style="float:right;">
+        This text is right aligned
+    </span>
+</p>
+
+<span style="font-family:Didot; font-size:1.5em; font-size:;">  Education  </span>
 <br />
 
 **Reed College**
-
-**Portland, OR**   August 2013 - May 2017 
+**Portland, OR** <div style="text-align: right"> **August 2013 - May 2017 **</div>
    
 * B.A. Mathematics & Economics
- 
 * Relevant Courses: Probability, Econometrics, Behavioral Economics, Economics of Science & Technology
- 
 * Senior Thesis: A Big Data Analysis of Pokémon Battling
 
-<span style="font-family:Didot; font-size:2em;">Technical Experience</span>
+------
+
+<span style="font-family:Didot; font-size:1.5em ;"> Technical Experience  </span>
 <br />
 
 **Consumer Learning Analyst**
-
-**Fisher Investments, Camas, WA**               October 2018 – January 2020
+**Fisher Investments, Camas, WA** <div style="text-align: right"> **October 2018 – January 2020** </div>
 
 * Consumer Learning Resource across the firm
-
 * Surveys, interviews, and focus groups to learn about employees, clients, and prospective clients
-
 * Pursue high quality learning efforts to support outstanding service and new initiatives
 
 **Client Learning Associate**
-
-**Fisher Investments, Camas, WA**               October 2017 – October 2018
+**Fisher Investments, Camas, WA** <div style="text-align: right"> **October 2017 – October 2018** </div>
 
 * Run Interviews, Surveys, and Focus Groups to learn more about United States clients
-
 * Interview former clients, transcribe, and analyze their feedback and present key takeaways to senior management
-
 * Identify learning opportunities to leverage client feedback in actionable ways
 
 **Student Manager**
-
-**Reed College Phonathon, Portland, OR**    August 2015 – May 2017
+**Reed College Phonathon, Portland, OR** <div style="text-align: right"> **August 2015 – May 2017 **</div>
 
 * Manage student callers in daily operations
-
 * Collect, Analyze, and Discuss student caller metrics
-
 * Coach student callers on strengths and improvement
 
-<span style="font-family:Didot; font-size:2em;">Research History</span>
+------
+
+<span style="font-family:Didot; font-size:1.5em;">  Research Experience  </span>
 <br />
 
+* Kelly McConville, FIA Forestry Analysis (NA)
 * Jeff Parker, [Correlates of Regional Unemployment in Regions of East-Central Europe](https://www.reed.edu/economics/parker/Parker_WEA_Paper.pdf)
 
-* Kelly McConville, FIA Forestry Analysis (Tbd)
-
-<span style="font-family:Didot; font-size:2em;">Programming Languages</span>
+<span style="font-family:Didot; font-size:1.5em;">  Programming Languages  </span>
 <br />
 
 * R, RStudio, RMarkdown, Qualtrics, Excel, VBA, STATA
 
-<span style="font-family:Didot; font-size:2em;">Tools/Platforms</span>
+<span style="font-family:Didot; font-size:1.5em;">  Software, Tools, Platforms  </span>
 <br />
 
 * Microsoft Office Suite, Qualtrics, RStudio, RMarkdown
 
-**Email:** samuel.david.olson@gmail.com
-**Phone:**+1(763)280-0544
+<span style="font-family:Didot; font-size:1.5em;">  Personal Interests  </span>
+<br />
+
+* Baking
+* Board Games
