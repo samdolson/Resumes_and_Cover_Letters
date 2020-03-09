@@ -7,7 +7,7 @@
 
 <span style="font-family:Didot; font-size:1.5em;">  Objective  </span>
 
-* Aspiring graduate student of statistics. Passionate about data literacy, cognitive biases, and data visualization. Interested in research positions. 
+* I am an aspiring graduate student of statistics. My passions include data literacy, cognitive biases, and data visualization. I am interested in research positions utilizing my statistical skills. 
 
 ------
 
@@ -19,7 +19,7 @@
    
 * B.A. Mathematics & Economics
 * Relevant Courses: Probability, Econometrics, Behavioral Economics, Economics of Science & Technology
-* Senior Thesis: A Big Data Analysis of Pokémon Battling
+* Senior Thesis: [A Big Data Analysis of Pokémon Battling](https://github.com/samuelolson/reed-thesis/blob/master/docs/thesis.pdf)
 
 ------
 
@@ -29,23 +29,22 @@
 **Consumer Learning Analyst**
 <p style="text-align:left;"> **Fisher Investments, Camas, WA** <span style="float:right;"> **October 2018 – January 2020** </span> </p>
 
-* Consumer Learning Resource across the firm
-* Surveys, interviews, and focus groups to learn about employees, clients, and prospective clients
-* Pursue high quality learning efforts to support outstanding service and new initiatives
+* Conduct Surveys, Interviews, Focus Groups, and Secondary Research to learn about employees, clients, and prospective clients.
+* Support department learning efforts across the firm and ensure they follow market research best practice.
 
 **Client Learning Associate**
 <p style="text-align:left;"> **Fisher Investments, Camas, WA** <span style="float:right;"> **October 2017 – October 2018** </span> </p>
 
-* Run Interviews, Surveys, and Focus Groups to learn more about United States clients
-* Interview former clients, transcribe, and analyze their feedback and present key takeaways to senior management
-* Identify learning opportunities to leverage client feedback in actionable ways
+* Conduct Surveys, Interviews, and Focus Groups to learn about the US High Net Worth population. 
+* Generate, analyze, and present former client interviews to understand termination trends. 
+* Identify opportunities to generate and leverage client feedback to improve customer service. 
 
 **Student Manager**
 <p style="text-align:left;"> **Reed College Phonathon, Portland, OR** <span style="float:right;"> **August 2015 – May 2017 ** </span> </p>
 
-* Manage student callers in daily operations
-* Collect, Analyze, and Discuss student caller metrics
-* Coach student callers on strengths and improvement
+* Manage and train student callers in raising money for Reed College. 
+* Collect, Analyze, and Discuss student caller metrics. 
+* Provide personalized coaching to student callers to improve success on the phone and in the workplace. 
 
 ------
 
@@ -64,11 +63,12 @@
 * Excel
 * HTML
 
-<span style="font-family:Didot; font-size:1.5em;">  Software, Tools, Platforms  </span>
+<span style="font-family:Didot; font-size:1.5em;">  Software & Tools  </span>
 <br />
 
 * RStudio
-* R Markdown
+* RMarkdown
+* Github
 * Microsoft Office Suite
 * Qualtrics
 
@@ -79,4 +79,3 @@
 
 * Baking
 * Board Games
-* D&D (5e & Pathfinder)

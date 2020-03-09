@@ -1,0 +1,14 @@
+<p align="right"> Text .</p>
+<p align="right"> Text .</p>
+<p align="right"> Text .</p>
+<p align="right"> Text .</p>
+<p align="right"> Text .</p>
+
+<p align="left"> Text
+Text
+Text
+Text
+
+Sincerely, .</p>
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+<p align="leftt"> Sam D. Olson .</p>
