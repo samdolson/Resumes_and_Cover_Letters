@@ -12,3 +12,5 @@ Location: samue
 "C:\Program Files (x86)\wkhtmltopdf\bin\wkhtmltopdf.exe" "file:///C:/Users/samue/Documents/Resumes_and_such/Secondary_Test.html" Resume_Sam_D_Olson.pdf
 
 "C:\Program Files (x86)\wkhtmltopdf\bin\wkhtmltopdf.exe" "file:///C:/Users/samue/Documents/Resumes_and_such/HTML_Testing.html" htmltest.pdf
+
+"C:\Program Files (x86)\wkhtmltopdf\bin\wkhtmltopdf.exe" "file:///C:/Users/samue/Documents/Resumes_and_such/Cover-Letter.html" Cover_Letter.pdf

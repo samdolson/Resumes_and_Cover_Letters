@@ -24,11 +24,13 @@ Town, State, Zip </p>
 <span style="font-family:Didot; font-size:1em ;"> <p align="left">
 Dear Mr./Mrs. X, 
 <p><br></p>
-I am writing to apply for Y. 
+I am writing to apply for the research assistance position. [To be filled in more specifically, e.g. 'University of Chicago's Poverty Workshop Research Assistant'] 
 <p><br></p>
-I am qualified and interested given my prior experience in Z. 
+My research experience, both academically and professionally, have made me comfortable pursuing research independently, in addition to in collaboration with others. I've had the pleasure of conducting research in a number of different fields---economics, market research, and forestry---using a variety of research methodologies. From these experiences, I am hopeful to have an opportunity to utilize these skills, as well as build new ones, as a research assistant.  
 <p><br></p>
-I hope to hear from you soon. 
+Qualifications aside, I am passionate about research. After two weeks of wrapping us my last job, I came back to Reed College, my alma mater, to audit two statistics courses. One of these courses, Statistics Practicum, reinforced my love of research and aspiration to be involved in research. The course is a semster-long group research project where we learn about about the research process. I've been exhilarated to have the opportunity to reaffirm my passion for this process, and with being reintroduced to the world of academic research. It is primarily because of my interest that I am applying to be your research assistant.
+<p><br></p>
+Thank you for your time and consideration. I hope to hear from you soon. 
 <p><br></p>
 Sincerely,</p>
 ```{r fig.width=2, fig.height=1,echo=FALSE}
