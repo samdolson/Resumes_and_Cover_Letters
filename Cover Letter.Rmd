@@ -1,14 +1,40 @@
-<p align="right"> Text .</p>
-<p align="right"> Text .</p>
-<p align="right"> Text .</p>
-<p align="right"> Text .</p>
-<p align="right"> Text .</p>
+<center><span style="font-family:Didot; font-size:1.5em;">**Sam D. Olson** </span></center>
 
-<p align="left"> Text
-Text
-Text
-Text
 
-Sincerely, .</p>
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
-<p align="leftt"> Sam D. Olson .</p>
+<center><span style="font-family:Didot; font-size:1em;"> **Email:** [samuel.david.olson@gmail.com](samuel.david.olson@gmail.com) | **Github:** [samdolson](http://github.com/samdolson) | **LinkedIn:** [Samuel Olson](https://www.linkedin.com/in/samuel-olson-108b73135/)</span></center>
+
+<center><span style="font-family:Didot; font-size:1em;"> **Phone:** +1(763)280-0544 | **Location:** Portland, OR USA </span></center>
+
+------
+
+<span style="font-family:Didot; font-size:1em ;"> <p align="left"> 
+
+Recipient
+
+Recipient Position
+
+Recipient Company
+
+Address
+
+Town, State, Zip </p>
+
+<p><br></p>
+
+<span style="font-family:Didot; font-size:1em ;"> <p align="left">
+Dear Mr./Mrs. X, 
+<p><br></p>
+I am writing to apply for Y. 
+<p><br></p>
+I am qualified and interested given my prior experience in Z. 
+<p><br></p>
+I hope to hear from you soon. 
+<p><br></p>
+Sincerely,</p>
+```{r fig.width=2, fig.height=1,echo=FALSE}
+library(png)
+library(grid)
+img <- readPNG( "C:/Users/samue/Documents/Resumes_and_such/signature.png")
+ grid.raster(img)
+```
+<p align="left"> Sam D. Olson </p>  </span>
