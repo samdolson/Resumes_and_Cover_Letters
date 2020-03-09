@@ -1,4 +1,5 @@
-<center><span style="font-family:Didot; font-size:1.5em;">**Sam D. Olson**</span></center>
+<center><span style="font-family:Didot; font-size:1.5em;">**Sam D. Olson** </span></center>
+
 
 <center><span style="font-family:Didot; font-size:1em;"> **Email:** [samuel.david.olson@gmail.com](samuel.david.olson@gmail.com) | **Github:** [samdolson](http://github.com/samdolson) | **LinkedIn:** [Samuel Olson](https://www.linkedin.com/in/samuel-olson-108b73135/)</span></center>
 
@@ -10,18 +11,11 @@
 
 ------
 
-<p style="text-align:left;">
-    This text is left aligned
-    <span style="float:right;">
-        This text is right aligned
-    </span>
-</p>
-
 <span style="font-family:Didot; font-size:1.5em; font-size:;">  Education  </span>
 <br />
 
 **Reed College**
-**Portland, OR** <div style="text-align: right"> **August 2013 - May 2017 **</div>
+<p style="text-align:left;"> **Portland, OR** <span style="float:right;"> **August 2013 - May 2017 ** </span> </p>
    
 * B.A. Mathematics & Economics
 * Relevant Courses: Probability, Econometrics, Behavioral Economics, Economics of Science & Technology
@@ -33,21 +27,21 @@
 <br />
 
 **Consumer Learning Analyst**
-**Fisher Investments, Camas, WA** <div style="text-align: right"> **October 2018 – January 2020** </div>
+<p style="text-align:left;"> **Fisher Investments, Camas, WA** <span style="float:right;"> **October 2018 – January 2020** </span> </p>
 
 * Consumer Learning Resource across the firm
 * Surveys, interviews, and focus groups to learn about employees, clients, and prospective clients
 * Pursue high quality learning efforts to support outstanding service and new initiatives
 
 **Client Learning Associate**
-**Fisher Investments, Camas, WA** <div style="text-align: right"> **October 2017 – October 2018** </div>
+<p style="text-align:left;"> **Fisher Investments, Camas, WA** <span style="float:right;"> **October 2017 – October 2018** </span> </p>
 
 * Run Interviews, Surveys, and Focus Groups to learn more about United States clients
 * Interview former clients, transcribe, and analyze their feedback and present key takeaways to senior management
 * Identify learning opportunities to leverage client feedback in actionable ways
 
 **Student Manager**
-**Reed College Phonathon, Portland, OR** <div style="text-align: right"> **August 2015 – May 2017 **</div>
+<p style="text-align:left;"> **Reed College Phonathon, Portland, OR** <span style="float:right;"> **August 2015 – May 2017 ** </span> </p>
 
 * Manage student callers in daily operations
 * Collect, Analyze, and Discuss student caller metrics
@@ -64,15 +58,25 @@
 <span style="font-family:Didot; font-size:1.5em;">  Programming Languages  </span>
 <br />
 
-* R, RStudio, RMarkdown, Qualtrics, Excel, VBA, STATA
+* R
+* STATA
+* VBA
+* Excel
+* HTML
 
 <span style="font-family:Didot; font-size:1.5em;">  Software, Tools, Platforms  </span>
 <br />
 
-* Microsoft Office Suite, Qualtrics, RStudio, RMarkdown
+* RStudio
+* R Markdown
+* Microsoft Office Suite
+* Qualtrics
+
+------
 
 <span style="font-family:Didot; font-size:1.5em;">  Personal Interests  </span>
 <br />
 
 * Baking
 * Board Games
+* D&D (5e & Pathfinder)
