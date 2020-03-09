@@ -1,0 +1,12 @@
+---
+title: "Reference Knit Code"
+output: html_document
+---
+
+Location: samue
+
+"C:\Program Files (x86)\wkhtmltopdf\bin\wkhtmltopdf.exe" https://google.com google.pdf
+
+"C:\Program Files (x86)\wkhtmltopdf\bin\wkhtmltopdf.exe" "file:///C:/Users/samue/Documents/Resumes_and_such/Resume_Sam_D_Olson.html" example.pdf
+
+"C:\Program Files (x86)\wkhtmltopdf\bin\wkhtmltopdf.exe" "file:///C:/Users/samue/Documents/Resumes_and_such/Secondary_Test.html" Resume_Sam_D_Olson.pdf
