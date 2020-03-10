@@ -1,4 +1,4 @@
-<center><span style="font-family:Didot; font-size:1.5em;">**Sam D. Olson** </span></center>
+<center><span style="font-family:Didot; font-size:1.5em;">**Samuel Olson** </span></center>
 
 
 <center><span style="font-family:Didot; font-size:1em;"> **Email:** [samuel.david.olson@gmail.com](samuel.david.olson@gmail.com) | **Github:** [samdolson](http://github.com/samdolson) | **LinkedIn:** [Samuel Olson](https://www.linkedin.com/in/samuel-olson-108b73135/)</span></center>
@@ -24,17 +24,17 @@ Town, State, Zip </p>
 <span style="font-family:Didot; font-size:1em ;"> <p align="left">
 Dear Mr./Mrs. X, 
 <p><br></p>
-Thank you for the opportunity to apply for the XXX position. [To be filled in more specifically, e.g. ‘University of Chicago’s Poverty Workshop Research Assistant’]
+Thank you for the opportunity to apply for the **XXX** position.
 <p><br></p>
-I have XXX years of research experience. I have academic and professional experience in the private sector, which generates my confidence in pursuing research independently or in collaboration with teams that include academic, marketing, sales, management, and client services departments. (list groups you worked with)
+I have over $3 \frac{1}{2}$ years of research experience, both academic and professional. This experience has made be confident in pursuing independent as well as collaborative research. Though I have prior experience specifically in economics, forestry, marketing, customer service, and a number of other departments, I am open to pursuing new fields of research. 
 <p><br></p>
-I’ve conducted research in several different fields(LONG DASH)
- economics, market research, a college alumni group, and forestry— using a variety of research methodologies. My math/logic skills include XXXX (programs/languages etc.) I enjoy devoting time to learning new programs and applications. (whatever your field terms are for R etc)
+I’ve conducted research in several different fields---economics, market research, and forestry—--using a variety of research methodologies. My skills include use of R, VBA, and Stata, as well as soft skills such as project management. I enjoy learning new use cases, programs, and packages. 
 <p><br></p>
-My goal is to utilize these skills/opportunities and build new ones, as a research assistant. To further my skills, I just recently went back to my Alma Mater, Reed College to audit two statistics courses. Statistics Practicum and XXXX coursework reinforced my desire to pursue a career path in research through a semester-long group research project focused on process. This opportunity reignited my desire to pursue academic research. 
+My goal is to continue building my research and analytical skills, and build new ones, as a research assistant. To further my skills, I just recently went back to my Alma Mater, Reed College to audit two statistics courses. One of these courses, Statistics Practicum, reinforced my desire to continue pursuing research through a semester-long group research project and additional coursework focused on learning more about various aspects of the research process. This opportunity reignited my desire to pursue academic research. 
 <p><br></p>
-Please feel free to contact me at XXXX (Cellphone) if you need further information. I can provide excellent references.
 Thank you for reviewing my qualifications for this exciting position.
+<p><br></p>
+Please feel free to contact me at via phone at +1(763)280-0544 or via email at samuel.david.olson@gmail.com. I am happy to provide references.
 <p><br></p>
 Sincerely,</p>
 ```{r fig.width=2, fig.height=1,echo=FALSE}

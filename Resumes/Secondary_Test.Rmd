@@ -1,4 +1,4 @@
-<center><span style="font-family:Didot; font-size:1.5em;">**Sam D. Olson** </span></center>
+<center><span style="font-family:Didot; font-size:1.5em;">**Samuel Olson** </span></center>
 
 
 <center><span style="font-family:Didot; font-size:1em;"> **Email:** [samuel.david.olson@gmail.com](samuel.david.olson@gmail.com) | **Github:** [samdolson](http://github.com/samdolson) | **LinkedIn:** [Samuel Olson](https://www.linkedin.com/in/samuel-olson-108b73135/)</span></center>
@@ -40,7 +40,7 @@
 * Identify opportunities to generate and leverage client feedback to improve customer service. 
 
 **Student Manager**
-<p style="text-align:left;"> **Reed College Phonathon, Portland, OR** <span style="float:right;"> **August 2015 – May 2017 ** </span> </p>
+<p style="text-align:left;"> **Reed College Alumni Program---Phonathon, Portland, OR** <span style="float:right;"> **August 2015 – May 2017 ** </span> </p>
 
 * Manage and train student callers in raising money for Reed College. 
 * Collect, Analyze, and Discuss student caller metrics. 
@@ -48,17 +48,17 @@
 
 ------
 
-<span style="font-family:Didot; font-size:1.5em;">  Research Experience  </span>
+<span style="font-family:Didot; font-size:1.5em;">  Academic Research Experience  </span>
 <br />
 
-* Kelly McConville, FIA Forestry Analysis (NA)
+* Kelly McConville, Olek Wojcik, & Paul Nguyen,  FIA Forestry Analysis (NA)
 * Jeff Parker, [Correlates of Regional Unemployment in Regions of East-Central Europe](https://www.reed.edu/economics/parker/Parker_WEA_Paper.pdf)
 
 <span style="font-family:Didot; font-size:1.5em;">  Programming Languages  </span>
 <br />
 
 * R
-* STATA
+* Stata
 * VBA
 * Excel
 * HTML
@@ -67,7 +67,7 @@
 <br />
 
 * RStudio
-* RMarkdown
+* Markdown
 * Github
 * Microsoft Office Suite
 * Qualtrics
