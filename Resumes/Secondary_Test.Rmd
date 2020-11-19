@@ -18,7 +18,6 @@
 <p style="text-align:left;"> **Portland, OR** <span style="float:right;"> **August 2013 - May 2017 ** </span> </p>
    
 * B.A. Mathematics & Economics
-* Relevant Courses: Probability, Econometrics, Behavioral Economics, Economics of Science & Technology
 * Senior Thesis: [A Big Data Analysis of Pokémon Battling](https://github.com/samuelolson/reed-thesis/blob/master/docs/thesis.pdf)
 
 ------
@@ -41,7 +40,6 @@
 **Client Learning Associate**
 <p style="text-align:left;"> **Fisher Investments, Camas, WA** <span style="float:right;"> **October 2017 – October 2018** </span> </p>
 
-* Conduct Surveys, Interviews, and Focus Groups to learn about the US High Net Worth population. 
 * Generate, analyze, and present former client interviews to understand termination trends. 
 * Identify opportunities to generate and leverage client feedback to improve customer service. 
 
@@ -50,7 +48,6 @@
 
 * Manage and train student callers in raising money for Reed College. 
 * Collect, Analyze, and Discuss student caller metrics. 
-* Provide personalized coaching to student callers to improve success on the phone and in the workplace. 
 
 ------
 
@@ -64,25 +61,16 @@
 <span style="font-family:Didot; font-size:1.5em;">  Programming Languages  </span>
 <br />
 
-* R
-* STATA
-* VBA
-* SQL
-* HTML
+* R, STATA, VBA, SQL, & HTML
 
 <span style="font-family:Didot; font-size:1.5em;">  Software & Tools  </span>
 <br />
 
-* RStudio
-* Markdown
-* Github
-* Microsoft Office Suite (Excel, Access)
-* Qualtrics
+* RStudio, Markdown, Github, Microsoft Office Suite (Excel, Access), & Qualtrics
 
 ------
 
 <span style="font-family:Didot; font-size:1.5em;">  Personal Interests  </span>
 <br />
 
-* Baking
-* Board Games
+* Baking & Board Games
