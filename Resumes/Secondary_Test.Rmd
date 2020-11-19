@@ -7,7 +7,7 @@
 
 <span style="font-family:Didot; font-size:1.5em;">  Objective  </span>
 
-* I am an aspiring graduate student of statistics. My passions include survey estimation, research methodology, data literacy, cognitive biases, and data visualization. I am interested in research positions utilizing my statistical skills. 
+* I am an aspiring graduate student of statistics. My passions include survey estimation, research methodology, data literacy, cognitive biases, and data visualization. I am interested in research and teaching positions utilizing my statistical skills. 
 
 ------
 
@@ -47,7 +47,7 @@
 <p style="text-align:left;"> **Reed College Alumni Program---Phonathon, Portland, OR** <span style="float:right;"> **August 2015 – May 2017 ** </span> </p>
 
 * Manage and train student callers in raising money for Reed College. 
-* Collect, Analyze, and Discuss student caller metrics. 
+* Collect, analyze, and discuss student caller metrics. 
 
 ------
 
@@ -73,4 +73,4 @@
 <span style="font-family:Didot; font-size:1.5em;">  Personal Interests  </span>
 <br />
 
-* Baking & Board Games
+* Reading, Baking, & Board Games
