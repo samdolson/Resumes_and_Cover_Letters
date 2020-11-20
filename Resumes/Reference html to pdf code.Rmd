@@ -9,6 +9,8 @@ Location: samue
 
 "C:\Program Files (x86)\wkhtmltopdf\bin\wkhtmltopdf.exe" "file:///C:/Users/samue/Documents/Resumes_and_such/Resumes/Secondary_Test.html" Resume_Sam_D_Olson.pdf
 
+"C:\Program Files (x86)\wkhtmltopdf\bin\wkhtmltopdf.exe" "file:///C:/Users/samue/Documents/Resumes_and_such/Resumes/Course_Overview.html" Course_Overview_SDO.pdf
+
 
 Check
 

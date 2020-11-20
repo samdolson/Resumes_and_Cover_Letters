@@ -1,0 +1,54 @@
+<span style="font-family:Didot; font-size:1.5em ;"> Course Overview  </span>
+<br />
+
+**Math 111: Calculus**
+
+* Course Description: Full course for one semester. This includes a treatment of limits, continuity, derivatives, mean value theorem, integration—including the fundamental theorem of calculus, and definitions of the trigonometric, logarithmic, and exponential functions. Prerequisite: three years of high school mathematics. Lecture-conference.
+
+**Math 112: Intro to Analysis**
+
+* Course Description: Full course for one semester. Field axioms, the real and complex fields, sequences and series. Complex functions, continuity and differentiation; power series and the complex exponential. Prerequisite: Mathematics 111 or equivalent. Lecture-conference.
+
+**Math 121: Introduction to Computing (Now Computer Science 121)**
+
+* Course Description: Full course for one semester. An introduction to computer science, covering topics such as elementary data structures, algorithms, computability, floating point computations, and programming in a high-level language. Prerequisite: three years of high school mathematics. Lecture-conference and lab.
+
+**Math 141: Intro to Probability & Statistics**
+
+* Course Description: Full course for one semester. The basic ideas of probability including properties of expectation, the law of large numbers, and the central limit theorem are discussed. These ideas are applied to the problems of statistical inference, including estimation and hypothesis testing. The linear regression model is introduced, and the problems of statistical inference and model validation are studied in this context. A portion of the course is devoted to statistical computing and graphics. Prerequisite: three years of high school mathematics. Lecture-conference and laboratory.
+
+**Math 211: Multivariable Calculus 1**
+
+* Course Description: Full course for one semester. A development of the basic theorems of multivariable differential calculus, optimization, and Taylor series. Inverse and implicit function theorems may be included. Prerequisite: Mathematics 112 or consent of the instructor. Lecture-conference.
+
+**Math 212: Multivariable Calculus 2**
+
+* Course Description: Full course for one semester. A study of line, multiple, and surface integrals, including Green’s and Stokes’ theorems; linear differential equations. Differential geometry of curves and surfaces or Fourier series may be included. Prerequisite: Mathematics 211 or consent of the instructor. Lecture-conference.
+
+**Econ 312: Theory & Practice of Econometrics**
+
+* Course Description: Full course for one semester. An introduction to the statistical methods commonly used in economic research. Classroom development of theoretical material is combined with extensive hands-on practice of econometric techniques. Statistical methods discussed include estimation and inference in simple and multiple linear regression models, detection and correction of autocorrelation and heteroskedasticity, time-series models and distributed lags, and estimation of systems of simultaneous equations. Considerable emphasis is placed on learning to specify, implement, and evaluate tests of economic hypotheses. Prerequisites: Economics 201 and Mathematics 141 or similar introduction to statistics, or consent of the instructor. Lecture-conference.
+
+**Math 321: Real Analysis**
+
+* Course Description: Full course for one semester. A careful study of continuity and convergence in metric spaces. Sequences and series of functions, uniform convergence, normed linear spaces. Prerequisite: Mathematics 202. Lecture-conference. 
+
+**Math 331: Linear Algebra**
+
+* Course Description: Full course for one semester. A brief introduction to field structures, followed by presentation of the algebraic theory of finite dimensional vector spaces. Topics include linear transformations, determinants, eigenvalues, eigenvectors, diagonalization. Geometry of inner product spaces is examined in the setting of real and complex fields. Prerequisite: Mathematics 112. Lecture-conference.
+
+**Math 343: Statistics Practicum (2020 Audit)**
+
+* Course Description: Full course for one semester. In this course, students will participate in a team-based, semester-long research project. Class time will be divided between supervised research time and a seminar focused on providing students with skills to facilitate their research. Seminar topics will include reproducible workflows, effective strategies for collaborative work, technical writing, statistical consulting, and scientific presentations. The course covers several components of the research process, such as literature reviews, technical writing, and scientific presentations. Emphasis is placed on developing a reproducible workflow. Prerequisite: Mathematics 243, or Mathematics 241 with permission of the instructor. Conference-laboratory.
+
+**Math 391: Probability**
+
+* Course Description: Full course for one semester. A development of probability theory in terms of random variables defined on discrete sample spaces. Special topics may include Markov chains, stochastic processes, and measure-theoretic development of probability theory. Prerequisites: Mathematics 113 and 202. Lecture-conference.
+
+**Math 392: Mathematical Statistics (2020 Audit)**
+
+* Course Description: Full course for one semester. Theories of statistical inference, including maximum likelihood estimation and Bayesian inference. Topics may be drawn from the following: large sample properties of estimates, linear models, multivariate analysis, empirical Bayes estimation, and statistical computing. Prerequisite: Mathematics 391 or consent of the instructor. Lecture-conference.
+
+**Econ/Math 470: Thesis (Economics/Mathematics)**
+
+* Course Description: Full course for one year. Students participate in a year-long research project in the field(s) of their study.
