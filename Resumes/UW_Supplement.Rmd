@@ -1,0 +1,28 @@
+<span style="font-family:Didot; font-size:1.5em;">  Professional experience </span>
+<br />
+
+**Forestry Data Science Research Assistant**
+<p style="text-align:left;"> **Reed College, Portland, OR** <span style="float:right;"> **January 2020 – Present** </span> </p>
+
+* *Supervisor:* Prof. Kelly McConville 
+* *Duties:* Use R to compare and contrast the precision of estimation techniques in estimating forest attributes in the Interior West. Create and analyze the use of a new indirect estimator adapting the Generalized Regression estimator. Present research to research stakeholders in the Forest Inventory and Analysis program.  
+
+**Consumer Learning Analyst**
+<p style="text-align:left;"> **Fisher Investments, Camas, WA** <span style="float:right;"> **August 2018 - January 2020** </span> </p>
+* *Supervisor:* David Pawlowski (August 2018 - November 2019), Jordan Anderson (November 2019 - January 2020)
+* *Duties:* Teach market research best practices across departments, including how to quantitatively and qualitatively analyze survey, interview, and focus group feedback. Mentor incoming Consumer Learning team members on market research methodology and data analysis.  
+
+**Economics Research Assistant**
+<p style="text-align:left;"> **Reed College, Portland, OR** <span style="float:right;"> **June 2016 – September 2016** </span> </p>
+
+* *Supervisor:* Prof. Jeffrey Parker
+* *Duties:* Compile labor statistics of East-Central European countries. Use STATA to conduct exploratory data analysis on regional unemployment correlates. Explore the creation and implementation of variables not available in labor statistics, e.g. whether a region was historically part of the Iron Curtain. 
+
+<span style="font-family:Didot; font-size:1.5em;">  Educational and professional goals </span>
+<br />
+
+My goal is to serve as a researcher and a teacher. It is important to me that I am involved in research that connects people from disparate fields and teaching that inspires students to critically engage with data. I also want to inspire people to think about complex questions and devise ways to test those questions.  
+
+Academically, I am interested in survey estimation and research methodology. My interests include interdisciplinary studies for teaching and research. In teaching statistics, I hope to raise awareness of the history underpinning statistical and mathematical studies, while inspiring and empowering students (and not just those studying statistics) to create, execute, and analyze research. 
+
+As a graduate student at the University of Washington, I’m pursuing a PhD to become a professor. I hope to teach probability and statistics, methodological studies, and the history of statistics. I would work tirelessly to improve the communities I’d be involved in through teaching, research, and service. I am committed to pursuing a career in statistics as a researcher, but I hope more than anything to be an educator, to continue applying my skills to inspire others to learn and use statistics.

@@ -9,8 +9,21 @@ Location: samue
 
 "C:\Program Files (x86)\wkhtmltopdf\bin\wkhtmltopdf.exe" "file:///C:/Users/samue/Documents/Resumes_and_such/Resumes/Secondary_Test.html" Resume_Sam_D_Olson.pdf
 
+# General Course Overview
 "C:\Program Files (x86)\wkhtmltopdf\bin\wkhtmltopdf.exe" "file:///C:/Users/samue/Documents/Resumes_and_such/Resumes/Course_Overview.html" Course_Overview_SDO.pdf
 
+# Detailed Course Overview
+"C:\Program Files (x86)\wkhtmltopdf\bin\wkhtmltopdf.exe" "file:///C:/Users/samue/Documents/Resumes_and_such/Resumes/Detailed_Course_Overview.html" Detailed_Course_Overview_SDO.pdf
+
+# Personal Statement No Div
+"C:\Program Files (x86)\wkhtmltopdf\bin\wkhtmltopdf.exe" "file:///C:/Users/samue/Documents/Resumes_and_such/Resumes/UW_Supplement.html" Supplement_SDO.pdf
+
+# Madison-Wisc
+## All
+"C:\Program Files (x86)\wkhtmltopdf\bin\wkhtmltopdf.exe" "file:///C:/Users/samue/Documents/Resumes_and_such/Resumes/Course_Overview_Madison.html" Course_Overview_Quant_SDO.pdf
+
+## Comp
+"C:\Program Files (x86)\wkhtmltopdf\bin\wkhtmltopdf.exe" "file:///C:/Users/samue/Documents/Resumes_and_such/Resumes/Comp_Course_Overview_Madison.html" Comp_Course_Overview_SDO.pdf
 
 Check
 
