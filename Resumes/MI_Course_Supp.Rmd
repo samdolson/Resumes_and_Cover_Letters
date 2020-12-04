@@ -1,0 +1,22 @@
+
+<left><span style="font-family:Didot; font-size:1em;"> Summary of Courses </span></left>
+
+<left><span style="font-family:Didot; font-size:1em;"> Samuel David Olson </span></left>
+
+<left><span style="font-family:Didot; font-size:1em;"> Statistics Ph.D </span></left>
+
+**Math 343: Statistics Practicum (2020 Audit)**
+
+* *Instructor:* Prof. Kelly McConville
+* *Grade:* N/A (Audit)
+* *School:* Reed College
+* *Text:* Communicating with Data: The Art of Writing for Data Science, Deborah Nolan and Sara Stoudt (Link Not Available)
+* *Subject Matter:* Full course for one semester. In this course, students will participate in a team-based, semester-long research project. Class time will be divided between supervised research time and a seminar focused on providing students with skills to facilitate their research. Seminar topics will include reproducible workflows, effective strategies for collaborative work, technical writing, statistical consulting, and scientific presentations. The course covers several components of the research process, such as literature reviews, technical writing, and scientific presentations. Emphasis is placed on developing a reproducible workflow. Prerequisite: Mathematics 243, or Mathematics 241 with permission of the instructor. Conference-laboratory.
+
+**Math 392: Mathematical Statistics (2020 Audit)**
+
+* *Instructor:* Prof. Andrew Bray
+* *Grade:* N/A (Audit)
+* *School:* Reed College 
+* *Text:* [Probability and Statistics, 4th ed., DeGroot and Schervish](https://www.amazon.com/Probability-Statistics-4th-Morris-DeGroot/dp/0321500466) , [Other Texts Detailed on Course Page](https://github.com/andrewpbray/math-392/blob/master/syllabus.md)
+* *Subject Matter:* Full course for one semester. Theories of statistical inference, including maximum likelihood estimation and Bayesian inference. Topics may be drawn from the following: large sample properties of estimates, linear models, multivariate analysis, empirical Bayes estimation, and statistical computing. Prerequisite: Mathematics 391 or consent of the instructor. Lecture-conference.

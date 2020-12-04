@@ -5,6 +5,17 @@ output: html_document
 
 Location: samue
 
+# Quant Washington
+"C:\Program Files (x86)\wkhtmltopdf\bin\wkhtmltopdf.exe" "file:///C:/Users/samue/Documents/Resumes_and_such/WA_Quant.html" WA_Quant.pdf
+
+"C:\Program Files (x86)\wkhtmltopdf\bin\wkhtmltopdf.exe" "file:///C:/Users/samue/Documents/Resumes_and_such/Resumes/WA_Secondary_Test.html" WA_Resume_Sam_D_Olson.pdf
+
+# Michigan
+
+"C:\Program Files (x86)\wkhtmltopdf\bin\wkhtmltopdf.exe" "file:///C:/Users/samue/Documents/Resumes_and_such/Resumes/MI_Secondary_Test.html" UMICH_Resume_Sam_D_Olson.pdf
+
+"C:\Program Files (x86)\wkhtmltopdf\bin\wkhtmltopdf.exe" "file:///C:/Users/samue/Documents/Resumes_and_such/Resumes/MI_Course_Supp.html" U_M_Course_Supp.pdf
+
 ## Current
 
 "C:\Program Files (x86)\wkhtmltopdf\bin\wkhtmltopdf.exe" "file:///C:/Users/samue/Documents/Resumes_and_such/Resumes/Secondary_Test.html" Resume_Sam_D_Olson.pdf

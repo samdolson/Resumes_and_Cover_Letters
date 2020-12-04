@@ -1,5 +1,8 @@
-<center><span style="font-family:Didot; font-size:1.5em;">**Samuel Olson** </span></center>
+<left><span style="font-family:Didot; font-size:1em;">Samuel David Olson,</span></left>
+<left><span style="font-family:Didot; font-size:1em;">Quantitative Ecology & Resource Management Program,</span></left>
+<left><span style="font-family:Didot; font-size:1em;">Autumn Quarter 2021</span></left>
 
+<center><span style="font-family:Didot; font-size:1.5em;">**Samuel Olson** </span></center>
 
 <center><span style="font-family:Didot; font-size:1em;"> **Email:** [samuel.david.olson@gmail.com](samuel.david.olson@gmail.com) | **Github:** [samdolson](http://github.com/samdolson) | **LinkedIn:** [Samuel Olson](https://www.linkedin.com/in/samuel-olson-108b73135/)</span></center>
 

@@ -1,3 +1,11 @@
+
+<left><span style="font-family:Didot; font-size:1em;"> Curriculum Vitae/Resume </span></left>
+
+<left><span style="font-family:Didot; font-size:1em;"> Samuel David Olson </span></left>
+
+<left><span style="font-family:Didot; font-size:1em;"> Statistics Ph.D </span></left>
+
+
 <center><span style="font-family:Didot; font-size:1.5em;">**Samuel Olson** </span></center>
 
 
