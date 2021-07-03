@@ -1,0 +1,78 @@
+<center><span style="font-family:Didot; font-size:1.5em;">**Samuel Olson** </span></center>
+
+<center><span style="font-family:Didot; font-size:1em;"> **Email:** [samuel.david.olson@gmail.com](samuel.david.olson@gmail.com) | **Github:** [samdolson](http://github.com/samdolson) | **LinkedIn:** [Samuel Olson](https://www.linkedin.com/in/samuel-olson-108b73135/)</span></center>
+
+<center><span style="font-family:Didot; font-size:1em;"> **Phone:** +1(763)280-0544 | **Location:** Cambridge, MN USA </span></center>
+
+------
+
+<span style="font-family:Didot; font-size:1.5em; font-size:;">  Education  </span>
+<br />
+
+**Reed College**
+<p style="text-align:left;"> **Portland, OR** <span style="float:right;"> **August 2013 - May 2017 ** </span> </p>
+* B.A. Mathematics & Economics
+* Senior Thesis: [A Big Data Analysis of Pokémon Battling](https://github.com/samuelolson/reed-thesis/blob/master/docs/thesis.pdf)
+
+------
+
+<span style="font-family:Didot; font-size:1.5em ;"> Professional Experience  </span>
+<br />
+
+**Forestry Data Science Research Fellow**
+<p style="text-align:left;"> **Reed College, Portland, OR** <span style="float:right;"> **June 2021 – Present** </span> </p>
+* Develop R Package to allow easy implementation of the augmented Generalized Regression estimator (GREGORY). 
+* Analyze MSE, bias, and consistency of the augmented Generalized Regression estimator.
+
+**Forestry Data Science Research Assistant**
+<p style="text-align:left;"> **Reed College, Portland, OR** <span style="float:right;"> **January 2020 – October 2020** </span> </p>
+* Compare and contrast the precision of estimation techniques in estimating forest attributes in the Interior West. 
+* Create and analyze the use of a new indirect estimator adapting the Generalized Regression estimator. 
+
+**Consumer Learning Analyst**
+<p style="text-align:left;"> **Fisher Investments, Camas, WA** <span style="float:right;"> **October 2018 – January 2020** </span> </p>
+* Conduct Surveys, Interviews, Focus Groups, and Secondary Research to learn about employees, clients, and prospective clients.
+* Support department learning efforts across the firm and ensure they follow market research best practice.
+
+**Client Learning Associate**
+<p style="text-align:left;"> **Fisher Investments, Camas, WA** <span style="float:right;"> **October 2017 – October 2018** </span> </p>
+* Generate, analyze, and present former client interviews to understand termination trends. 
+* Identify opportunities to generate and leverage client feedback to improve customer service. 
+
+------
+
+<span style="font-family:Didot; font-size:1.5em;">  Research Experience & Presentations </span>
+<br />
+
+* **Research:**
+<p style="text-align:left;"> *Small Area Estimation: Use of a Modified Generalized Regression Estimator in the Interior West (Pending)* <span style="float:right;"> **June 2020 – October 2020** </span> </p>
+Kelly McConville, Tracey Frescino, Gretchen Moisen, Chris Toney, Olek Wojcik, & Paul Nguyen 
+
+* **Presentation:**
+<p style="text-align:left;">  *[Improving Precision of Forestry Estimation](https://www.causeweb.org/usproc/eusrc/2020/program/9)* <span style="float:right;"> **November 6th, 2020** </span> </p>
+Olek Wojcik & Paul Nguyen 
+
+* **Research:**
+<p style="text-align:left;">  *[A Comparison of Forest Estimations: Post-Stratification & Generalized Regression Estimators](https://tinyurl.com/y2ujojrv)* <span style="float:right;"> **January 2020 – May 2020** </span> </p>
+Olek Wojcik & Paul Nguyen
+
+* **Research:**
+<p style="text-align:left;">*[Correlates of Regional Unemployment in Regions of East-Central Europe](https://www.reed.edu/economics/parker/Parker_WEA_Paper.pdf)* <span style="float:right;"> **June 2016 – September 2016** </span> </p>
+Jeff Parker
+
+------
+
+<span style="font-family:Didot; font-size:1.5em;">  Programming Languages & Software  </span>
+<br />
+
+* Programming Language Proficiency: **R**, **Access**, **STATA**, **VBA** 
+
+* Basic knowledge of **Python**, **HTML**, **SQL** 
+
+* Software Proficiency: **RMarkdown**, **LaTex**, **Github**, **Excel**, **Word**, **Qualtrics**
+
+------
+
+<span style="font-family:Didot; font-size:1.5em;">  Personal Interests  </span>
+<br />
+* Reading, Baking, Board Games, Dungeons & Dragons

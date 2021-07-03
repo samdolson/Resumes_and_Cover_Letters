@@ -1,0 +1,29 @@
+
+<left><span style="font-family:Didot; font-size:1.25em;">Samuel David Olson</span></left>
+
+<left><span style="font-family:Didot; font-size:1.25em;">Quantitative Ecology & Resource Management Program</span></left>
+
+<left><span style="font-family:Didot; font-size:1.25em;">Autumn Quarter 2021</span></left>
+
+
+<span style="font-family:Didot; font-size:1.5em ;"> Statement of Purpose  </span>
+<br />
+
+
+<!-- **Math 111: Calculus** -->
+
+<!-- * *Instructor:* Prof. Angélica Osorno -->
+<!-- * *Grade:* B -->
+<!-- * *School:* Reed College -->
+<!-- * *Text:* [Calculus of a Single Variable, 8th Edition, Larson, Hostetler, and Edwards](https://www.amazon.com/Calculus-Single-Variable-Ron-Larson/dp/061850303X) -->
+<!-- * *Subject Matter:* Full course for one semester. This includes a treatment of limits, continuity, derivatives, mean value theorem, integration—including the fundamental theorem of calculus, and definitions of the trigonometric, logarithmic, and exponential functions. Prerequisite: three years of high school mathematics. Lecture-conference. -->
+
+I have been doing quantitative work of some kind for the majority of my life. I am so curious about what constitutes life. The intersection between biology and statistics intrigues me, and I want to pour myself into it. 
+
+I have been using HTML and RMarkdown to compile most of the materials the reader has read, or may read soon--if at all. I have numerous skills I'd rather not detail. Instead, I want to emphasize my two greatest skills: I am curious. I am devoted to learning. 
+
+<!-- I didn't know until quite recently that I wanted to wholesale commit to pursuing a PhD. I did what I love doing: Collecting data. I went back to Reed College to take two courses I always wished I took in my initial undergraduate studies. Though I managed to get a summer research internship with the lovely Prof. Jeff Parker, summers were typically spent canoeing in Northern Minnesota and then trying to make rent with landscaping back in Portland.  -->
+
+I didn't know until quite recently that I wanted to wholesale commit to pursuing a PhD. I did what I love doing: Collecting data. I went back to Reed College to take two courses I always wished I took in my initial undergraduate studies. The experience was incredible and transformative. The challenge brought about by COVID-19 to online learning has been consequential to teachers. 
+
+I understand what it means to be a researcher, the commitment of time and so many other unquantifiable things. I'm going to give it everything I have. I want that experience to be at QERM. 
