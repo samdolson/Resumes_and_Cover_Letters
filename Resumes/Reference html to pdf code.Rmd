@@ -5,6 +5,11 @@ output: html_document
 
 Location: samue
 
+"C:\Program Files (x86)\wkhtmltopdf\bin\wkhtmltopdf.exe" "file:///C:/Users/samue/Documents/Resumes_and_such/Resumes/ResumeGeneral.html" SDO_Resume.pdf
+
+"C:\Program Files (x86)\wkhtmltopdf\bin\wkhtmltopdf.exe" "file:///C:/Users/samue/Documents/Resumes_and_such/Resumes/SDO_Resume.html" SDO_Research_Resume.pdf
+
+\
 # New Resume 2021
 # Latest
 "C:\Program Files (x86)\wkhtmltopdf\bin\wkhtmltopdf.exe" "file:///C:/Users/samue/Documents/Resumes_and_such/SDO_Resume_2021.html" SDO_Resume.pdf

@@ -1,73 +1,74 @@
+---
+output: pdf_document
+header-includes:
+   - \usepackage{setspace}
+   - \singlespacing
+fontsize: 11pt
+mainfont: Didot
+sansfont: Didot
+monofont: Didot
+indent: true
+self_contained: no
+always_allow_html: yes
+---
 <center><span style="font-family:Didot; font-size:1.5em;">**Samuel Olson** </span></center>
-
 <center><span style="font-family:Didot; font-size:1em;"> **Email:** [samuel.david.olson@gmail.com](samuel.david.olson@gmail.com) | **Github:** [samdolson](http://github.com/samdolson) | **LinkedIn:** [Samuel Olson](https://www.linkedin.com/in/samuel-d-olson/)</span></center>
-
 <center><span style="font-family:Didot; font-size:1em;"> **Phone:** +1(763)280-0544 </span></center>
-
 ------
 <span style="font-family:Didot; font-size:1.5em; font-size:;">  Education  </span>
 <br />
 
 **Reed College, B.A. Mathematics & Economics**
-<p style="text-align:left;"> **Portland, OR** <span style="float:right;"> **August 2013 - May 2017 ** </span> </p>
+**Portland, OR** <div style="text-align: right"> **August 2013 - May 2017** </div>
 *Senior Thesis:* [A Big Data Analysis of Pokémon Battling](https://github.com/samuelolson/reed-thesis/blob/master/docs/thesis.pdf)
-
 ------
 <span style="font-family:Didot; font-size:1.5em ;"> Work Experience  </span>
 <br />
 
-**Forestry Data Science Research Fellow**
-<p style="text-align:left;"> **Reed College, Portland, OR** <span style="float:right;"> **May 2021 – Present** </span> </p>
+**Forestry Data Science Research Fellow** <div style="text-align: right"> **May 2021 – Present** </div>
+*Reed College, Portland, OR*
+
 * Develop an R Package, [gregRy](https://github.com/olekwojcik/gregRy), to allow easy implementation of an augmented Generalized Regression estimator (GREGORY). 
 * Analytically develop a proof of the statistical properties of the GREGORY estimator--MSE, bias, and consistency. 
 * Empirically analyze the bias and MSE of the GREGORY estimator through a simulation study in the United States Interior West to determine appropriate usage of the GREGORY estimator for forestry estimation, e.g. estimating the number of trees in a county.
 
-**Forestry Data Science Research Assistant**
-<p style="text-align:left;"> **Reed College, Portland, OR** <span style="float:right;"> **January 2020 – October 2020** </span> </p>
+**Forestry Data Science Research Assistant** \begin{flushright} **January 2020 – October 2020** \end{flushright}
+*Reed College, Portland, OR* 
+
 * Create and analyze the precision of an augmented Generalized Regression estimator (GREGORY) for estimating forest attributes in the United States Interior West. 
 * Communicate and discuss the use of the GREGORY estimator to United States Forestry Service researchers and forestry statisticians through presentations, group discussions, and close collaboration.
 * Create research manuscript for publication detailing the formulation, use, and advantages to using the GREGORY estimator. 
 
-**Consumer Learning Analyst**
-<p style="text-align:left;"> **Fisher Investments, Camas, WA** <span style="float:right;"> **October 2018 – January 2020** </span> </p>
+**Consumer Learning Analyst** \begin{flushright} **October 2018 – January 2020** \end{flushright}
+*Fisher Investments, Camas, WA* 
+
 * Conduct and support over 100 projects utilizing surveys, interviews, focus groups, and secondary research to learn about employees, clients, and prospective clients across all company departments.
 * Support company use of market research tools, such as Qualtrics, and ensure learning efforts follow market research best practice.
 
-**Client Learning Associate**
-<p style="text-align:left;"> **Fisher Investments, Camas, WA** <span style="float:right;"> **October 2017 – October 2018** </span> </p>
+**Client Learning Associate** \begin{flushright} **October 2017 – October 2018** \end{flushright}
+*Fisher Investments, Camas, WA* 
+
 * Conduct and analyze over 200 phone interviews with former client to understand termination trends and communicate feedback with upper level executives in the US Private Client Group. 
 * Support, distribute, and analyze three customer feedback surveys totaling over 5,000 responses annually to understand clients' experiences and improve customer service. 
-
 ------
 <span style="font-family:Didot; font-size:1.5em;">  Research Experience & Presentations </span>
-<br />
 
-* **Research:** *In Collaboration With:* Kelly McConville, Tracey Frescino, Gretchen Moisen, Chris Toney, Olek Wojcik, & Paul Nguyen 
+* **Research:** *In collaboration with Kelly McConville, Tracey Frescino, Gretchen Moisen, Chris Toney, Olek Wojcik, & Paul Nguyen*
 <p style="text-align:left;"> *Small Area Estimation: Use of a Modified Generalized Regression Estimator (Pending)* <span style="float:right;"> **June 2020 – October 2020** </span> </p>
-
-* **Presentation:** *In Collaboration With:* Olek Wojcik & Paul Nguyen 
+* **Presentation:** *In collaboration with Olek Wojcik & Paul Nguyen*
 <p style="text-align:left;">  *[Improving Precision of Forestry Estimation](https://www.causeweb.org/usproc/eusrc/2020/program/9)* <span style="float:right;"> **November 6th, 2020** </span> </p>
-
-* **Research:** *In Collaboration With:* Olek Wojcik & Paul Nguyen
+* **Research:** *In collaboration with Olek Wojcik & Paul Nguyen*
 <p style="text-align:left;">  *[A Comparison of Forest Estimations: Post-Stratification & Generalized Regression Estimators](https://tinyurl.com/y2ujojrv)* <span style="float:right;"> **January 2020 – May 2020** </span> </p>
-
-* **Research:** *In Collaboration With:* Jeff Parker
+* **Research:** *In collaboration with Jeff Parker*
 <p style="text-align:left;">*[Correlates of Regional Unemployment in Regions of East-Central Europe](https://www.reed.edu/economics/parker/Parker_WEA_Paper.pdf)* <span style="float:right;"> **June 2016 – September 2016** </span> </p>
-
 ------
-
 <span style="font-family:Didot; font-size:1.5em;">  Skills  </span>
 <br />
 
 * *Programming Language Expertise:* **R**, **SQL**, **STATA**, **VBA**, **Python**, **HTML**
-
 * *Software Proficiency:* **RMarkdown**, **LaTeX**, **Github**, **Google Workspace**, **Microsoft Office Suite**, **Qualtrics**
-
-* *Other Skills:* **Academic, Technical, & Business Writing**, **Data Cleaning & Wrangling**, **Data Visualization**, **Teaching**, **Presenting** 
-
+* *Other Skills:* **Academic, Technical, & Business Writing**, **Data Cleaning & Wrangling**, **Data Visualization**
 ------
-
 <span style="font-family:Didot; font-size:1.5em;">  Personal Interests  </span>
-<br />
 
 * Baking, Board Games, Collaging, Dungeons & Dragons, Reading 
