@@ -4,13 +4,14 @@
   pdf_document: default
 ---
 
-Johnny Coder
+Samuel Olson
 ============
 
 -------------------     ----------------------------
-1 MyAddress                        email@example.com
-MyTown 1000                          @twitter_handle
-MyCountry                           1800 my-phone-nr
+34306 Quapaw St. NW     samuel.david.olson@gmail.com
+Cambridge, MN 55008     **Github:** [samdolson](http://github.com/samdolson)           
+United States           **LinkedIn:** [Samuel Olson](https://www.linkedin.com/in/samuel-olson-108b73135/)
+(763)280-0544
 -------------------     ----------------------------
 
 Education

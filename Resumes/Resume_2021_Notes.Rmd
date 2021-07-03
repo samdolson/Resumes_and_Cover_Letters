@@ -1,0 +1,20 @@
+---
+title: "Notes on Resume 2021"
+output: html_document
+---
+
+: Tighten up margins (broadly, but also particularly on research experience/presentations section)
+
+: Use consistent formatting (particularly use of italics, bold, etc.)
+
+: (If possible) include statistics related to current and past work experience, e.g. 'Conducted 100 learning projects across departments at Fisher'
+
+: (Maybe) adjust education to include recent online classes/future U of MN class
+
+: Consider a different font family (currently Didot, may want to consider others)
+
+: (When up and running) include link to personal website
+
+: Check difference between Access & SQL (given it's a SQL-like db); also, consider adding 'Microsoft' before the products
+
+: (When published, possibly prior-to) Adjust name of research from Summer 2020
